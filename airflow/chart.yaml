@@ -7,7 +7,7 @@ icon: https://airflow.apache.org/_images/pin_large.png
 home: https://airflow.apache.org/
 
 sources:
-  - https://github.com/rohit75335/helm-charts/tree/main/charts/airflow
+  - https://github.com/rohit75335/helm-charts/tree/main/airflow
 keywords:
   - airflow
   - dag
